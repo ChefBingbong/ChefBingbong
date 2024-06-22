@@ -1,7 +1,13 @@
 # Hey there 👋
 I'm bingbong a software engineer from Ireland
 
-![logo](https://miro.medium.com/v2/resize:fit:1080/1*8f3ojo_puFI-JOjPAj9dUA.jpeg)
+```ts
+const someOfMyInfo = {
+  name: "Ox Undefined",
+  pronouns: "him" | "he",
+  languages: ["Typescript", "Javascript", "Python", "Solidity"]
+};
+```
 
 ### What I Do
 - 💙 Software engineer at Pancakeswap
@@ -10,7 +16,7 @@ I'm bingbong a software engineer from Ireland
 - 👋 Working and researching ZK and public key cryptography in my spare time
 - Aswell as studying about distributed programming
 
-### About Me
+### My Intrests
 - ⭐ Passionate and curious about distributed systems and P2P
 - ✨ I love TypeScript, Solidity and Python
 - 🟡 Currently learning Golang **(Will get around to Rust LOL)**
