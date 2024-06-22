@@ -11,7 +11,7 @@ const someOfMyInfo = {
 
 ### What I Do
 - 💙 Software engineer at Pancakeswap
-- - 👻 Previously worked at Moralis, Ren, Catalog Fi
+- 👻 Previously worked at Moralis, Ren, Catalog Fi
 - 🧠 Applied Physics graduate from Dublin City University
 - 👋 Working and researching ZK and public key cryptography in my spare time
 - Aswell as studying about distributed programming
