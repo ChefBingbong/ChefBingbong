@@ -17,7 +17,7 @@ I'm bingbong a software engineer from Ireland
 - 🐦 Reach me on Twitter and LinkedIn
 
 ### Some Of My Work (Research)
-- 📄 [Blockchain Model to re-imagine the Scientific Peer-review ecoystem](https://evanmcgrane-portfolio-git-main-mcgraneder.vercel.app/paper2.pdf)
+- 📄 [Blockchain Model to re-imagine the Scientific Peer-review ecoystem](https://evanmcgrane-portfolio-git-main-mcgraneder.vercel.app/paper1.pdf)
 - 📄 [Exploring financial algorithms for flash-loan arbitrage](https://evanmcgrane-portfolio-git-main-mcgraneder.vercel.app/Defi-Bot-Financial-Theory-&-Design-Philosopy.pdf)
 
 ### Socials & Portfolio/Youtube
