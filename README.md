@@ -26,6 +26,7 @@ const someOfMyInfo = {
 ### Some Of My Work (Research)
 - 📄 [Blockchain Model to re-imagine the Scientific Peer-review ecoystem](https://evanmcgrane-portfolio-git-main-mcgraneder.vercel.app/paper1.pdf)
 - 📄 [Exploring financial algorithms for flash-loan arbitrage](https://evanmcgrane-portfolio-git-main-mcgraneder.vercel.app/Defi-Bot-Financial-Theory-&-Design-Philosopy.pdf)
+- Application of EC keypair gen in smart contracts for leveraging onChain ZK proofs and ECDSA / Schnor signatures **(Work In Progress)**
 
 ### Socials & Portfolio/Youtube
 - 🟦 [LinkedIn](https://www.linkedin.com/in/evan-mc-grane-1b0036287/)
