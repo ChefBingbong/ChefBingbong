@@ -1,20 +1,21 @@
 # Hey there 👋
 I'm bingbong a software engineer from Ireland
 
+![logo](https://miro.medium.com/v2/resize:fit:1080/1*8f3ojo_puFI-JOjPAj9dUA.jpeg)
+
 ### What I Do
 - 💙 Software engineer at Pancakeswap
+- - 👻 Previously worked at Moralis, Ren, Catalog Fi
 - 🧠 Applied Physics graduate from Dublin City University
 - 👋 Working and researching ZK and public key cryptography in my spare time
 - Aswell as studying about distributed programming
 
 ### About Me
-- 👻 Previously worked @ Moralis, Ren, Catalog Fi
 - ⭐ Passionate and curious about distributed systems and P2P
 - ✨ I love TypeScript, Solidity and Python
 - 🟡 Currently learning Golang **(Will get around to Rust LOL)**
 - 🌍 I love writing, especially academic research and formal papers
 - 💪 Read some of my work below
-- 🐦 Reach me on Twitter and LinkedIn
 
 ### Some Of My Work (Research)
 - 📄 [Blockchain Model to re-imagine the Scientific Peer-review ecoystem](https://evanmcgrane-portfolio-git-main-mcgraneder.vercel.app/paper1.pdf)
