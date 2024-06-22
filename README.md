@@ -30,5 +30,5 @@ const someOfMyInfo = {
 
 ### Socials & Portfolio/Youtube
 - 🟦 [LinkedIn](https://www.linkedin.com/in/evan-mc-grane-1b0036287/)
-- 📺 [Personal Website](https://evanmcgrane-portfolio-git-main-mcgraneder.vercel.app/)
+- 📺 [Personal Website](https://evanmcgrane-portfolio.vercel.app/)
 - 🧑 [My Youtube Channel](https://www.youtube.com/channel/UCFnBwoK7RnvE8_oeuE7z0gA)
