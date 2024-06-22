@@ -14,7 +14,7 @@ const someOfMyInfo = {
 - 💣 Previously worked at Moralis, Ren, Catalog Fi
 - 🧠 Applied Physics graduate from Dublin City University
 - 📝 Working and researching ZK and public key cryptography in my spare time
-- Aswell as studying about distributed programming
+- Aswell as studying distributed systems theory
 
 ### My Intrests
 - ❤️ Passionate and curious about distributed systems and P2P
