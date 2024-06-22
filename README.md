@@ -5,7 +5,7 @@ I'm bingbong a software engineer from Ireland
 - 💙 Software engineer at Pancakeswap
 - 🧠 Applied Physics graduate from Dublin City University
 - 👋 Working and researching ZK and public key cryptography in my spare time
-- Aswell as learning about distributed programming
+- Aswell as studying about distributed programming
 
 ### About Me
 - 👻 Previously worked @ Moralis, Ren, Catalog Fi
