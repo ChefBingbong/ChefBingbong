@@ -10,18 +10,18 @@ const someOfMyInfo = {
 ```
 
 ### What I Do
-- 💙 Software engineer at Pancakeswap
-- 👻 Previously worked at Moralis, Ren, Catalog Fi
+- 🐰 Software engineer at Pancakeswap
+- 💣 Previously worked at Moralis, Ren, Catalog Fi
 - 🧠 Applied Physics graduate from Dublin City University
-- 👋 Working and researching ZK and public key cryptography in my spare time
+- 📝 Working and researching ZK and public key cryptography in my spare time
 - Aswell as studying about distributed programming
 
 ### My Intrests
-- ⭐ Passionate and curious about distributed systems and P2P
+- ❤️ Passionate and curious about distributed systems and P2P
 - ✨ I love TypeScript, Solidity and Python
-- 🟡 Currently learning Golang **(Will get around to Rust LOL)**
+- 👨‍💻 Currently learning Golang **(Will get around to Rust LOL)**
 - 🌍 I love writing, especially academic research and formal papers
-- 💪 Read some of my work below
+- 📘 Read some of my work below
 
 ### Some Of My Work (Research)
 - 📄 [Blockchain Model to re-imagine the Scientific Peer-review ecoystem](https://evanmcgrane-portfolio-git-main-mcgraneder.vercel.app/paper1.pdf)
