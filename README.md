@@ -5,7 +5,7 @@ I'm bingbong a software engineer from Ireland
 const someOfMyInfo = {
   name: "Ox Bingbong",
   pronouns: "him" | "he",
-  languages: ["Typescript", "Javascript", "Python", "Solidity"]
+  languages: ["Typescript", "Go", "Python", "Solidity"]
 };
 ```
 
