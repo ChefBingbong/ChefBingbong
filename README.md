@@ -8,8 +8,6 @@ const someOfMyInfo = {
   languages: ["Typescript", "Go", "Python", "Solidity"]
 };
 ```
-### Things Im Proud Of
-- being better than paul mcbrien at python.
   
 ### What I Do
 - 🐰 Software engineer at Pancakeswap
