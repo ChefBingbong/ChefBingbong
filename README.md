@@ -13,13 +13,13 @@ const someOfMyInfo = {
 - 🐰 Software engineer at Pancakeswap
 - 💣 Previously worked at Moralis, Ren, Catalog Fi
 - 🧠 BSc in Applied Physics from Dublin City University (ranked 2nd with first degree honours (79% GPA))
-- 📝 Working and researching ZK and public key cryptography in my spare time
+- 📝 Working and researching Zeor Knowledge Proof systems and public key cryptography in my spare time
 - Aswell as studying distributed systems theory
 
 ### My Intrests
 - ❤️ Passionate and curious about distributed systems and P2P
 - ✨ I love TypeScript, golang Solidity and Python
-- 👨‍💻 currently learning GO **(Will get around to Rust LOL)**
+- 👨‍💻 currently learning Rust
 - 🌍 I love writing, especially academic research and formal papers
 - 📘 Read some of my work below
 
