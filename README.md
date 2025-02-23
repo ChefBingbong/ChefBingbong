@@ -11,7 +11,7 @@ const someOfMyInfo = {
   
 ### What I Do
 - 🐰 BE Software engineer at Berachain
-- 💣 Previously worked at PancakeSwap Moralis, Ren, Catalog Fi
+- 💣 Previously worked at PancakeSwap, Moralis, Ren, Catalog Fi
 - 🧠 BSc in Applied Physics from Dublin City University (ranked 2nd with first degree honours (79% GPA))
 - 📝 Working and researching Zeor Knowledge Proof systems and public key cryptography in my spare time
 - Aswell as studying distributed systems theory
