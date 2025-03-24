@@ -3,7 +3,7 @@ I'm bingbong a software engineer from Ireland
 
 ```ts
 const someOfMyInfo = {
-  name: "Ox Bingbong",
+  name: "ZeroExBingbong",
   pronouns: "him" | "he",
   languages: ["Typescript", "Go", "Python", "Solidity"]
 };
