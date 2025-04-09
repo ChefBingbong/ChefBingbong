@@ -19,7 +19,7 @@ const someOfMyInfo = {
 ### My Intrests
 - ❤️ Passionate and curious about distributed systems and P2P
 - ✨ I love TypeScript, golang Solidity and Python
-- 👨‍💻 currently learning Rust
+- 👨‍💻 currently learning Rust and golang
 - 🌍 I love writing, especially academic research and formal papers
 - 📘 Read some of my work below
 
