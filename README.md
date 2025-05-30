@@ -12,7 +12,7 @@ const someOfMyInfo = {
 ### What I Do
 - 🐰 Senior Software engineer at Oooga Booga on Berachain
 - 💣 Previously worked at PancakeSwap, Moralis, Ren, Catalog Fi
-- 🧠 BSc in Applied Physics from Dublin City University (ranked 2nd with first degree honours (79% GPA))
+- 🧠 BSc in Applied Physics from Dublin City University (ranked 2nd in my class with first degree honours (79% GPA))
 - 📝 Working and researching Zero Knowledge Proof systems and public key cryptography in my spare time
 - Aswell as studying distributed systems theory
 
